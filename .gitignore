@@ -1,1 +1,6 @@
 playground.ipynb
+
+/outputs/**/*
+/outputs_bertomelo/**/*
+/outputs_serafim/**/*
+/outputs_bert-tiny/**/*
